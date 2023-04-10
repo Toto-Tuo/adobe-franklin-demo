@@ -5,8 +5,8 @@ Your project's description...
 - Preview: https://main--{repo}--{owner}.hlx.page/
 - Live: https://main--{repo}--{owner}.hlx.live/
 
-- Preview: https://main--adobe--franklin-demo--toto-tuo.hlx.page/
-- Live: https://main-adobe--franklin--demo--toto-tuo.hlx.live/
+- Preview: https://main--adobe-franklin-demo--toto-tuo.hlx.page/
+- Live: https://main-adobe-franklin-demo--toto-tuo.hlx.live/
 
 ## Installation
 

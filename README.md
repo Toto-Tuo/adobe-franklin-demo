@@ -16,8 +16,13 @@ npm i
 ## Tests
 
 ```sh
-npm test
+npm tst
 ```
+```sh
+npm run lint
+```
+
+## 
 
 ## Local development
 
